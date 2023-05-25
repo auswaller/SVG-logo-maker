@@ -12,4 +12,4 @@ This is an SVG generator that will take in text, shape, and color options to the
 
 ## Link
 
-Video of application in use: https://drive.google.com/file/d/1I_lWmSWCmJ_RFr9N8YNdgNqKUVDl_jwh/view
+Video of application in use: https://drive.google.com/file/d/13IqfrsLwfiiDJMPSx1OlS33d8xBRyM6o/view
